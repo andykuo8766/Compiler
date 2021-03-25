@@ -1,0 +1,17 @@
+1.three test program
+
+	test1.c
+		input:infix
+		output:prefix and postfix
+	test2.c
+		output:linked list
+	test3.c
+		input:a number
+		output:isn't number is ams number
+
+
+2.use make commend to call makefile
+	makefile can
+		1.use antlr and mylexer.g to product mylexer.java and mylexer.tokens
+		2.use java compiler to compile testLexer.java and mylexer.java 
+		3.and then use testLexer to find and print all tokens in test1.c test2.c and test3.c
