@@ -1,0 +1,36 @@
+1.first input make to start the program
+2.test1 will input one int number two times and then it will output the result
+3.test2 will input one int number and one float number two times and then it will output the result
+4.test3 will input one int number and one float number two times and then it will output the result
+
+5. there is the example
+java -cp antlr-3.5.2-complete-no-st3.jar:. testCalc test1
+Please enter a number:11
+The number: is 11
+The result is 42.420002
+Please enter a number again:9
+The number: is 9
+The result is 36.420002
+java -cp antlr-3.5.2-complete-no-st3.jar:. testCalc test2
+Please enter a number1(int):10
+Please enter a number2(float):2.5
+The number1: is 10
+The number2: is 2.500000
+The result: is 22.500000
+Please enter a number1(int) again:10  
+Please enter a number2(float) again:2.5
+The number1: is 10
+The number2: is 2.500000
+The result: is 2.500000
+java -cp antlr-3.5.2-complete-no-st3.jar:. testCalc test3
+Please enter a number1(int):10
+Please enter a number2(float):2.5
+The number1: is 10
+The number2: is 2.500000
+The result: is 4.000000
+Please enter a number1(int) again:112 
+Please enter a number2(float) again:4.0
+The number1: is 112
+The number2: is 4.000000
+The result: is 448.000000
+
