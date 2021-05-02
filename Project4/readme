@@ -1,0 +1,15 @@
+1.use make to start the my compiler
+
+2.it will compile test1-1.c test1-2.c test2-1.c test2-2.c test3-1.c test3-2.c and then output the result 
+
+3.it can use int and float type
+
+4.it can count arithmetic computation
+
+5.it can use if else 
+
+6.it can use comparison like >,<,==,!=,>=,<=
+
+7.it can use printf with one parameters
+
+8.it can use comparison in if else
